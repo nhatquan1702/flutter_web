@@ -1,13 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="728389b6-ba4c-49ac-87f9-ed04bf805fa0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/q1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/q2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/q_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/q_signal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/quanpn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constants/widget/hireme_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants/widget/hireme_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/feedback.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/feedback.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/recent_work.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/recent_work.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/about_widget/about_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/about_widget/about_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/about_widget/widget/about_text_sign.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/about_widget/widget/about_text_sign.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/about_widget/widget/experience_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/about_widget/widget/experience_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/contact_widget/contact_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/contact_widget/contact_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/feedback_widget/feedback_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/feedback_widget/feedback_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/feedback_widget/widget/feedback_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/feedback_widget/widget/feedback_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/recent_widget/recent_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/recent_widget/recent_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/recent_widget/widget/recent_work_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/recent_widget/widget/recent_work_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/service_widget/service_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/service_widget/service_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/top_widget/widget/avatar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/top_widget/widget/avatar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/top_widget/widget/logo_blur_box.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/top_widget/widget/logo_blur_box.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/home_screen/top_widget/widget/menu.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/home_screen/top_widget/widget/menu.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2K2Y5vkVarBYM6sNVVZAC8ysoge" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nhatquan\StudioProjects\flutter_web\assets" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="728389b6-ba4c-49ac-87f9-ed04bf805fa0" name="Changes" comment="" />
+      <created>1673173970860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673173970860</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

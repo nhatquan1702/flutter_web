@@ -13,8 +13,8 @@ class FeedbackWidget extends StatelessWidget {
       child: Column(
         children: [
           const SectionTitle(
-            title: "Feedback Received",
-            subTitle: "Client’s testimonials that inspired me a lot",
+            title: "Đánh giá",
+            subTitle: "Một vài đánh giá và phản hồi của khách hàng là động lực cho tôi!",
             color: Color(0xFF00B1FF),
           ),
           const SizedBox(height: kDefaultPadding),

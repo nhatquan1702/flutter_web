@@ -53,7 +53,7 @@ class _RecentWorkCardState extends State<RecentWorkCard> {
                     ),
                     const SizedBox(height: kDefaultPadding),
                     const Text(
-                      "View Details",
+                      "Xem chi tiết",
                       style: TextStyle(decoration: TextDecoration.underline),
                     )
                   ],

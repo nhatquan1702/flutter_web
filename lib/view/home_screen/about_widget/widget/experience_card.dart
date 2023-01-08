@@ -63,7 +63,7 @@ class ExperienceCard extends StatelessWidget {
             ),
             const SizedBox(height: kDefaultPadding / 2),
             const Text(
-              "Years of Experience",
+              "Năm kinh nghiệm",
               style: TextStyle(
                 color: Color(0xFFA600FF),
               ),

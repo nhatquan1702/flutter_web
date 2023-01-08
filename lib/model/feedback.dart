@@ -18,21 +18,21 @@ class Feedback {
 List<Feedback> feedbacks = [
   Feedback(
     id: 1,
-    name: "Ronald Thompson",
+    name: "Quang Phạm",
     review: review,
     userPic: "assets/people.png",
     color: const Color(0xFFFFF3DD),
   ),
   Feedback(
     id: 2,
-    name: "Ronald Thompson",
+    name: "Quang Phạm",
     review: review,
     userPic: "assets/people.png",
     color: const Color(0xFFD9FFFC),
   ),
   Feedback(
     id: 3,
-    name: "Ronald Thompson",
+    name: "Quang Phạm",
     review: review,
     userPic: "assets/people.png",
     color: const Color(0xFFFFE0E0),
@@ -40,4 +40,4 @@ List<Feedback> feedbacks = [
 ];
 
 String review =
-    'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua enim ad minim veniam.';
+    "Hãy để nỗi đau tự nó trở nên lớn lao, và sự ủng hộ của mọi người sẽ được tuân theo, nhưng hãy để nó xảy ra vào thời điểm mà tôi có thể giảm bớt sức lao động và đau đớn.";

@@ -34,7 +34,7 @@ class HireMeCard extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: const [
                 Text(
-                  "Bắt đầu một dự án mới cùng tôi?",
+                  "Bắt đầu một dự án mới cùng tôi",
                   style: TextStyle(fontSize: 42, fontWeight: FontWeight.bold),
                 ),
                 SizedBox(height: kDefaultPadding / 2),

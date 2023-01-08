@@ -29,8 +29,8 @@ class RecentWorkSection extends StatelessWidget {
             child: const HireMeCard(),
           ),
           const SectionTitle(
-            title: "Recent Woorks",
-            subTitle: "My Strong Arenas",
+            title: "Công việc hiện tại",
+            subTitle: "Thế mạnh của tôi",
             color: Color(0xFFFFB100),
           ),
           const SizedBox(height: kDefaultPadding * 1.5),

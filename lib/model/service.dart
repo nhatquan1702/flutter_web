@@ -23,19 +23,19 @@ List<Service> services = [
   ),
   Service(
     id: 2,
-    title: "Web Design",
+    title: "UI/UX Design",
     image: "assets/desktop.png",
     color: const Color(0xFFE4FFC7),
   ),
   Service(
     id: 3,
-    title: "UI Design",
+    title: "Android Develop",
     image: "assets/ui.png",
     color: const Color(0xFFFFF3DD),
   ),
   Service(
     id: 4,
-    title: "Interaction Design",
+    title: "Mobile Develop",
     image: "assets/Intreaction_design.png",
     color: const Color(0xFFFFE0E0),
   ),

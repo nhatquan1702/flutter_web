@@ -65,7 +65,7 @@ class _FeedbackCardState extends State<FeedbackCard> {
             ),
             const SizedBox(height: kDefaultPadding * 2),
             const Text(
-              "Ronald Thompson",
+              "Quang Phạm",
               style: TextStyle(fontWeight: FontWeight.bold),
             )
           ],

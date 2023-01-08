@@ -14,7 +14,7 @@ class _MenuState extends State<Menu> {
     "Thông tin",
     "Dịch vụ",
     "Danh mục",
-    "Chứng thực",
+    "Đánh giá",
     "Liên hệ"
   ];
   @override

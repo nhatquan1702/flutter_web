@@ -23,15 +23,13 @@ class AboutWidget extends StatelessWidget {
               Expanded(
                 child: AboutSectionText(
                   text:
-                      "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                ),
+                  "Sự thật là bản thân cái đau là quan trọng, nó sẽ đi kèm với cái được, nhưng nó xảy ra vào thời điểm mà một số công việc và nỗi đau có thể xảy ra. Vì tôi sẽ đi đến tận cùng của nó, không ai nên thực hành bất kỳ loại nào của công việc trừ khi anh ta nhận được một số lợi ích từ nó."                ),
               ),
               ExperienceCard(numOfExp: "01"),
               Expanded(
                 child: AboutSectionText(
                   text:
-                      "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mag aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-                ),
+                  "Sự thật là bản thân cái đau là quan trọng, nó sẽ đi kèm với cái được, nhưng nó xảy ra vào thời điểm mà một số công việc và nỗi đau có thể xảy ra. Vì tôi sẽ đi đến tận cùng của nó, không ai nên thực hành bất kỳ loại nào của công việc trừ khi anh ta nhận được một số lợi ích từ nó."                ),
               ),
             ],
           ),
@@ -41,7 +39,7 @@ class AboutWidget extends StatelessWidget {
             children: [
               MyOutlineButton(
                 imageSrc: "assets/hand.png",
-                text: "Hire Me!",
+                text: "Thuê tôi!",
                 press: () {},
               ),
               const SizedBox(width: kDefaultPadding * 1.5),

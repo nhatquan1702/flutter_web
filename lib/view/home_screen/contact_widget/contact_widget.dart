@@ -24,8 +24,8 @@ class ContactWidget extends StatelessWidget {
         children: const [
           SizedBox(height: kDefaultPadding * 2.5),
           SectionTitle(
-            title: "Contact Me",
-            subTitle: "For Project inquiry and information",
+            title: "Liên hệ với tôi",
+            subTitle: "Trao đổi yêu cầu và thông tin dự án",
             color: Color(0xFF07E24A),
           ),
           ContactBox()
@@ -59,19 +59,19 @@ class ContactBox extends StatelessWidget {
               SocialCard(
                 color: const Color(0xFFD9FFFC),
                 iconSrc: "assets/skype.png",
-                name: 'TheFlutterWay',
+                name: 'nhatquan1702',
                 press: () {},
               ),
               SocialCard(
                 color: const Color(0xFFE4FFC7),
                 iconSrc: "assets/whatsapp.png",
-                name: 'TheFlutterWay',
+                name: 'nhatquan1702',
                 press: () {},
               ),
               SocialCard(
                 color: const Color(0xFFE8F0F9),
                 iconSrc: "assets/messanger.png",
-                name: 'TheFlutterWay',
+                name: 'nhatquan99',
                 press: () {},
               ),
             ],
@@ -99,8 +99,8 @@ class ContactForm extends StatelessWidget {
             child: TextFormField(
               onChanged: (value) {},
               decoration: const InputDecoration(
-                labelText: "Your Name",
-                hintText: "Enter Your Name",
+                labelText: "Họ Tên",
+                hintText: "Nhập vào họ tên của bạn",
               ),
             ),
           ),
@@ -109,8 +109,8 @@ class ContactForm extends StatelessWidget {
             child: TextFormField(
               onChanged: (value) {},
               decoration: const InputDecoration(
-                labelText: "Email Address",
-                hintText: "Enter your email address",
+                labelText: "Email",
+                hintText: "Nhập vào địa chỉ email của bạn",
               ),
             ),
           ),
@@ -119,8 +119,8 @@ class ContactForm extends StatelessWidget {
             child: TextFormField(
               onChanged: (value) {},
               decoration: const InputDecoration(
-                labelText: "Project Type",
-                hintText: "Select Project Type",
+                labelText: "Dự án",
+                hintText: "Nhập vào tên dự án mới",
               ),
             ),
           ),
@@ -129,8 +129,8 @@ class ContactForm extends StatelessWidget {
             child: TextFormField(
               onChanged: (value) {},
               decoration: const InputDecoration(
-                labelText: "Project Budget",
-                hintText: "Select Project Budget",
+                labelText: "Chi phí",
+                hintText: "Nhập vào chi phí cho dự án này",
               ),
             ),
           ),
@@ -140,8 +140,8 @@ class ContactForm extends StatelessWidget {
             child: TextFormField(
               onChanged: (value) {},
               decoration: const InputDecoration(
-                labelText: "Description",
-                hintText: "Write some description",
+                labelText: "Mô tả",
+                hintText: "Một vài mô tả cho dự án của bạn",
               ),
             ),
           ),
@@ -150,7 +150,7 @@ class ContactForm extends StatelessWidget {
             child: FittedBox(
               child: DefaultButton(
                 imageSrc: "assets/contact_icon.png",
-                text: "Contact Me!",
+                text: "Liên hệ với tôi!",
                 press: () {},
               ),
             ),
